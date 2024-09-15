@@ -16,10 +16,6 @@ export class AppComponent {
     {
       title: "About",
       url: "about",
-    },
-    {
-      title: "Key-System",
-      url: "key",
-    },
+    }
   ];
 }

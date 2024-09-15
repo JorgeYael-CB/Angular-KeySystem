@@ -6,5 +6,5 @@ import { KeyComponent } from './pages/key/key.component';
 
 export const routes: Routes = [
   {path: "about", component: AboutComponent},
-  {path: "key", component: KeyComponent},
+  {path: "key/:id", component: KeyComponent},
 ];
