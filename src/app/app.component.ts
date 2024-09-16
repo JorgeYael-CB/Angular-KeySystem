@@ -16,6 +16,14 @@ export class AppComponent {
     {
       title: "About",
       url: "about",
-    }
+    },
+    {
+      title: "F.A.Q",
+      url: "faq",
+    },
+    {
+      title: "Support",
+      url: "support",
+    },
   ];
 }
